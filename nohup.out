@@ -1,0 +1,36 @@
+Laravel development server started: <http://0.0.0.0:8000>
+[Tue Mar 19 15:52:47 2019] 219.136.130.243:28469 [200]: /com/assets/css/app.css
+[Tue Mar 19 15:52:47 2019] 219.136.130.243:28467 [200]: /com/assets/css/amazeui.min.css
+[Tue Mar 19 15:52:47 2019] 219.136.130.243:28471 [200]: /com/js/jquery-2.1.0.js
+[Tue Mar 19 15:52:47 2019] 219.136.130.243:28472 [200]: /com/assets/js/amazeui.min.js
+[Tue Mar 19 15:52:47 2019] 219.136.130.243:27230 [200]: /com/css/common.css
+[Tue Mar 19 15:52:47 2019] 219.136.130.243:27231 [200]: /com/js/common.js
+[Tue Mar 19 15:52:48 2019] 219.136.130.243:27233 [200]: /com/img/logo.png
+[Tue Mar 19 15:52:48 2019] 219.136.130.243:27232 [200]: /com/img/banner.jpg
+[Tue Mar 19 15:52:48 2019] 219.136.130.243:27234 [200]: /com/img/banner1.jpg
+[Tue Mar 19 15:52:48 2019] 219.136.130.243:27235 [200]: /com/img/wb.png
+[Tue Mar 19 15:52:48 2019] 219.136.130.243:27236 [200]: /com/img/banner2.jpg
+[Tue Mar 19 15:52:48 2019] 219.136.130.243:27237 [200]: /app/uploadImage/Goods/2018-08-27-15-17-30-5b84160a71fee.png
+[Tue Mar 19 15:52:48 2019] 219.136.130.243:27238 [200]: /com/img/top.png
+[Tue Mar 19 15:52:48 2019] 219.136.130.243:27239 [200]: /com/img/kj.png
+[Tue Mar 19 15:52:48 2019] 219.136.130.243:27240 [200]: /com/img/bdtb.png
+[Tue Mar 19 15:52:48 2019] 219.136.130.243:27241 [200]: /com/img/txwb.png
+[Tue Mar 19 15:52:48 2019] 219.136.130.243:27242 [200]: /com/img/ewm.png
+[Tue Mar 19 15:52:53 2019] 219.136.130.243:26899 [200]: /com/js/NativeShare.js
+[Tue Mar 19 15:52:53 2019] 219.136.130.243:26900 [200]: /com/assets/css/amazeui.min.css
+[Tue Mar 19 15:52:53 2019] 219.136.130.243:26901 [200]: /com/assets/css/app.css
+[Tue Mar 19 15:52:53 2019] 219.136.130.243:26904 [200]: /com/assets/js/amazeui.min.js
+[Tue Mar 19 15:52:53 2019] 219.136.130.243:26903 [200]: /com/js/jquery-2.1.0.js
+[Tue Mar 19 15:52:53 2019] 219.136.130.243:26905 [200]: /com/js/common.js
+[Tue Mar 19 15:52:53 2019] 219.136.130.243:26906 [200]: /com/css/common.css
+[Tue Mar 19 15:52:54 2019] 219.136.130.243:26908 [200]: /com/img/logo.png
+[Tue Mar 19 15:52:54 2019] 219.136.130.243:26909 [200]: /com/img/banner.jpg
+[Tue Mar 19 15:52:54 2019] 219.136.130.243:26910 [200]: /com/img/banner1.jpg
+[Tue Mar 19 15:52:54 2019] 219.136.130.243:26912 [200]: /com/img/banner2.jpg
+[Tue Mar 19 15:52:54 2019] 219.136.130.243:26911 [200]: /com/img/wb.png
+[Tue Mar 19 15:52:54 2019] 219.136.130.243:26913 [200]: /com/img/kj.png
+[Tue Mar 19 15:52:54 2019] 219.136.130.243:26914 [200]: /com/img/bdtb.png
+[Tue Mar 19 15:52:54 2019] 219.136.130.243:26916 [200]: /com/img/txwb.png
+[Tue Mar 19 15:52:54 2019] 219.136.130.243:26917 [200]: /com/img/top.png
+[Tue Mar 19 15:52:54 2019] 219.136.130.243:26918 [200]: /com/img/ewm.png
+Killed
